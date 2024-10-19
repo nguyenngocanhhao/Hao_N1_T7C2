@@ -1,4 +1,3 @@
-# 🎉 **Chào mừng đến với trang GitHub của Nguyễn Ngọc Anh Hào!** 🎉
 # 👋 Giới thiệu
 
 ## 📄 Thông tin cá nhân
