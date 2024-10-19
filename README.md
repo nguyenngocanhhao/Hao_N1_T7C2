@@ -1,9 +1,4 @@
-<marquee behavior="scroll" direction="left">
-  <span style="color:#ffb6c1; background-color:black; font-weight:bold;">
-    Chào mừng đến với trang GitHub của Nguyễn Ngọc Anh Hào!
-  </span>
-</marquee>
-
+# 🎉 **Chào mừng đến với trang GitHub của Nguyễn Ngọc Anh Hào!** 🎉
 # 👋 Giới thiệu
 
 ## 📄 Thông tin cá nhân
